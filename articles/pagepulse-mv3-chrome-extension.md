@@ -3,7 +3,7 @@ title: "Manifest V3でChrome拡張を作ってCWSに公開するまで"
 emoji: "🔧"
 type: "tech"
 topics: ["chrome拡張", "manifestv3", "javascript", "個人開発"]
-published: true
+published: false
 ---
 
 ## はじめに
