@@ -3,7 +3,7 @@ title: "LLMOとは何か——AI検索時代のWebサイト最適化"
 emoji: "🤖"
 type: "tech"
 topics: ["llmo", "seo", "ai", "chatgpt", "webマーケティング"]
-published: false
+published: true
 ---
 
 ## AI検索が変えたルール
